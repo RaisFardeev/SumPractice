@@ -4,13 +4,22 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/PC/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_third.xml" value="0.253125" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_cls.xml" value="0.152" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_main.xml" value="0.1" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_music.xml" value="0.2" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_music1.xml" value="0.264" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_search.xml" value="0.1" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_settings.xml" value="0.1" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_users.xml" value="0.1" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/MyApplication/app/src/main/res/layout/item_song.xml" value="0.253125" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/MyApplication/app/src/main/res/layout/item_user.xml" value="0.12301587301587301" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/MyApplication/app/src/main/res/layout/item_user_card.xml" value="0.1" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/MyApplication/app/src/main/res/layout/item_user_v1.xml" value="0.1" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/MyApplication/app/src/main/res/layout/music1.xml" value="0.1" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/MyApplication/app/src/main/res/menu/main_menu.xml" value="0.1" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/MyApplication/app/src/main/res/menu/menu_main.xml" value="0.1" />
       </map>
     </option>
   </component>
